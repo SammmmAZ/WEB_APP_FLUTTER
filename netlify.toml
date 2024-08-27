@@ -1,7 +1,7 @@
 [build]
   base = "/"
-  publish = "flutter-app/build/web"
-  functions = "node-server"
+  publish = "impact_mobile_app/build/web"
+  functions = "latest_backend_impactx/functions/index.js"
 
 [[redirects]]
   from = "/*"
